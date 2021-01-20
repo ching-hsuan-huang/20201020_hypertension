@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#FF8645" offset="0%"></stop>
+            <stop stop-color="#FF5F6D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-836.000000, -30.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-3">
+                <g transform="translate(644.000000, 25.000000)">
+                    <polygon id="Triangle" transform="translate(199.000000, 11.000000) scale(1, -1) translate(-199.000000, -11.000000) " points="199 5 206 17 192 17"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
